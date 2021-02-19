@@ -10,8 +10,10 @@ https://github.com/umairiqbal78/Deep-learning-examples/blob/master/new_using_pre
 
 ### 3. Beautiful_and_average_datasets.
 This Dataset was of images with labels as beautiful and average. So I trained a model on these images which can binary classify these images and predict for unseen image as beautiful or average image.
+
 **Source Code for Beautiful-vs-Average Dataset.**
 https://github.com/umairiqbal78/Deep-learning-examples/blob/master/Beautiful_and_average_datasets.ipynb
+
 **Predictions from Beatiful-vs-Average Dataset.**
 https://github.com/umairiqbal78/Deep-learning-examples/blob/master/Predictions_on_Beautiful_vs_avg.ipynb
 
@@ -38,8 +40,13 @@ I augmented the picture and create more dataset from the few images. This model 
 **Dataset link**
 https://drive.google.com/drive/folders/1mtfREfVR2p1LTu1dE27GxYx85NwPp-PL?usp=sharing
 
-**Source Code
+**Source Code**
 https://github.com/umairiqbal78/Deep-learning-examples/blob/master/umair_vs_salman_cnn_practise.ipynb
 
 **Prediction on model**
 https://github.com/umairiqbal78/Deep-learning-examples/blob/master/prediction_on_umair_vs_salman.ipynb
+
+### 7. IMDB Movie Dataset
+It classify the movie reviews as negative or positive review.
+https://github.com/umairiqbal78/Deep-learning-examples/blob/master/IMDB_movie_review_with_change(3_hidden_layer)%20.ipynb
+
