@@ -50,3 +50,7 @@ https://github.com/umairiqbal78/Deep-learning-examples/blob/master/prediction_on
 It classify the movie reviews as negative or positive review.
 https://github.com/umairiqbal78/Deep-learning-examples/blob/master/IMDB_movie_review_with_change(3_hidden_layer)%20.ipynb
 
+### 8. Spam-Vs-NO_Spam
+It classify the e-mails as spam or not spam. The model I used for its classification is LSTM. The validation and overall accuracy reached at 99%.
+
+https://github.com/umairiqbal78/Deep-learning-examples/blob/master/Spam_No_Spam_Class_Work.ipynb
